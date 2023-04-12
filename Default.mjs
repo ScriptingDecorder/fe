@@ -398,7 +398,7 @@ import _0x2e4490 from 'body-parser';
 import _0x54c832 from 'https';
 import _0x48c3ca from 'noblox.js';
 import _0x5ef4b8 from 'util';
-const keys = [imgaylol;
+const keys = imgaylol
 
 function _0x5c93ec(_0x1a9495, _0x146006, _0x2e09ab, _0x28d149, _0x2c1654) {
     return _0x573b(_0x1a9495 - -0x1ea, _0x28d149);
